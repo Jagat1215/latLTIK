@@ -1,0 +1,4 @@
+a = 5
+b = 5
+total = 5/5
+print(total)
